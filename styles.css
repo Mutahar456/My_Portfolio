@@ -26,8 +26,8 @@
         padding: 10px 10px 0 10px;
     }
     .normal-button:hover {
-        display: flex;
-        margin-left: 33px;
+        display: absolute;
+        font-size: 1.08rem;
     }
     .portion_3_desktop {
         display: none;
