@@ -42,8 +42,6 @@ Visual Studio Code
 https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=0%3A1&mode=dev
 
 # Acknowledgments
-If you'd like, you can include a section for acknowledging any contributors, open-source projects, or resources that you've used or been inspired by.
-
 Feel free to modify and customize this template according to your preferences. The key is to provide comprehensive and organized information, making it easy for visitors to understand your work and get in touch with you if they have any questions.
 
 # Requirements
