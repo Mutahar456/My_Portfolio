@@ -25,7 +25,7 @@
         align-items: center;
         padding: 10px 10px 0 10px;
     }
-    .normal-button {
+    .normal-button:hover {
         display: flex;
         margin-left: 33px;
     }
@@ -1254,7 +1254,7 @@
         margin-top: 2px;
     }
     .pro_btn {
-        margin-left: 10px;
+        margin-left: 0px;
         /* Reduce the maximum margin on the left of .pro_btn */
         width: fit-content;
         margin-top: 20px;
@@ -1263,6 +1263,11 @@
         border-radius: 0.6rem;
         color: #152bf5;
         background-color: var(--primaryb-500);
+    }
+    .pro_btn:hover {
+        background-color: blue;
+        color: white;
+        font-size: 1.08rem;
     }
     .end_container_Desktop {
         background-image: url('img/baccc.svg');
@@ -1314,10 +1319,13 @@
         border-radius: 0.6rem;
         color: #152bf5;
     }
+    .resume_btn:hover {
+        background-color: blue;
+        color: white;
+        font-size: 1.08rem;
+    }
     #btn_1 {
         position: relative;
-        top: 0;
-        left: 0;
         font-family: "Poppins-Medium", Helvetica;
         font-weight: 500;
         color: #7f8cff;
@@ -1330,7 +1338,13 @@
         border-radius: 0.4rem;
         background-color: transparent;
         margin-left: -19px;
-        margin-top: 23px;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    #btn_1:hover {
+        background-color: blue;
+        color: white;
+        font-size: 1.08rem;
     }
     .end_container_Desktop.h_content1 {
         position: relative;
@@ -1400,6 +1414,9 @@
         gap: 15px;
         color: #505f79;
     }
+    .social_icons1:hover {
+        size: 20px;
+    }
     .h_content {
         display: none;
     }
@@ -1417,6 +1434,11 @@
         border-radius: 0.4rem;
         text-align: center;
         /* Center the text horizontally */
+    }
+    #form_btn1:hover {
+        background-color: blue;
+        color: white;
+        font-size: 1.08rem;
     }
     #form_btn {
         display: none;
@@ -1500,6 +1522,11 @@
         color: #152bf5;
         margin-left: 25px;
     }
+    .pro_btn:hover {
+        background-color: blue;
+        color: white;
+        font-size: 1.08rem;
+    }
     .portion_2 {
         display: none;
     }
@@ -1517,9 +1544,13 @@
     }
     .nav-items li {
         margin-right: 20px;
+        cursor: pointer;
         /* Add spacing between list items */
     }
     .sec_2_content2 {
         display: none;
+    }
+    li:hover {
+        font-size: 1.08rem;
     }
 }
