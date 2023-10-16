@@ -51,24 +51,6 @@ Usuage of Flex in css
 Usuage of Media Queries 
 Make it Responsive at any dimension till the desktop 
 
-# You Can have a view Click The Link Below :
-
-https://mutahar456.github.io/My_Portfolio/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-You Can View My Portfolio By Clicking the link
-
+# You Can View My Portfolio By Clicking the link
 
 https://mutahar456.github.io/My_Portfolio/
